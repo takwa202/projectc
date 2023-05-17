@@ -1,0 +1,9 @@
+2 M3 temperature 1.000 27/12/2020 active
+3 M2 humidite 18.000 12/11/2020 non_active
+4 M3 temperature 1.000 27/12/2021 active
+5 M2 humidite 18.000 12/11/2020 non_active
+6 M2 humidite 9.000 27/12/2019 active
+7 M2 temperature 18.000 12/12/2020 non_active
+8 M3 temperature 1.000 27/10/2020 active
+9 M1 humidite 22.000 12/12/2019 non_active
+11 M2 temperature 9.000000 19/1/2021 active

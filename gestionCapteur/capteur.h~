@@ -1,0 +1,3 @@
+void ajouter_capteur(capteur cap);
+int exist_capteur(char*id);
+void afficher_capteur(GtkWidget* treeview1,char*l);

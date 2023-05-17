@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no"?> <!--*- mode: xml -*-->
+<!DOCTYPE glade-project SYSTEM "http://glade.gnome.org/glade-project-2.0.dtd">
+
+<glade-project>
+  <name>GestionCapteur</name>
+  <program_name>gestioncapteur</program_name>
+  <gnome_support>FALSE</gnome_support>
+</glade-project>
